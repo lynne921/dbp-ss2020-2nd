@@ -4,8 +4,8 @@
 - Linux : 무료이며, 윈도우보다 훨씬 빠르고 Apache 지원이 잘 되어 선택했다.
 - Apache Web Server : 가장 인기있으며 편리하고, Linux와 호환이 잘 되어 선택하였다.
 
-데이터 : kaggle, https://www.kaggle.com/zynicide/wine-reviews?select=winemag-data_first150k.csv : 와인 리스트
-<br>데이터베이스 내 필드 : (field_0, country, description, designation, point, price, region_1, region_2, variety, vinery)
++ 데이터 : kaggle, https://www.kaggle.com/zynicide/wine-reviews?select=winemag-data_first150k.csv : 와인 리스트
++ 데이터베이스 내 필드 : (field_0, country, description, designation, point, price, region_1, region_2, variety, vinery)
 
 ## 발견 정보 3개
 ###### 출력 정보 : 리뷰 번호, 나라, 리뷰, 포도 원산지, 점수, 가격, 원산지, 상세 원산지, 포도 품종, 제작한 와이너리 이름
