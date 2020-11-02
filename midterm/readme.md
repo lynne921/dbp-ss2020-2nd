@@ -1,8 +1,8 @@
 ## 개발 환경 소개
-MariaDB : 최대 15,000건의 데이터를 삽입, 가공해야 하므로 MYSQL보다 빠른 MariaDB를 선택하였다, 
-<br>PHP, HTML : 수업 시간에 배워 활용하고자 선택하였다.
-<br>Linux : 무료이며, 윈도우보다 훨씬 빠르고 Apache 지원이 잘 되어 선택했다.
-<br>Apache Web Server : 가장 인기있으며 편리하고, Linux와 호환이 잘 되어 선택하였다.
+- MariaDB : 최대 15,000건의 데이터를 삽입, 가공해야 하므로 MYSQL보다 빠른 MariaDB를 선택하였다, 
+- PHP, HTML : 수업 시간에 배워 활용하고자 선택하였다.
+- Linux : 무료이며, 윈도우보다 훨씬 빠르고 Apache 지원이 잘 되어 선택했다.
+- Apache Web Server : 가장 인기있으며 편리하고, Linux와 호환이 잘 되어 선택하였다.
 
 데이터 : kaggle, https://www.kaggle.com/zynicide/wine-reviews?select=winemag-data_first150k.csv : 와인 리스트
 <br>데이터베이스 내 필드 : (field_0, country, description, designation, point, price, region_1, region_2, variety, vinery)
