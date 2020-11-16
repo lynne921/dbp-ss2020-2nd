@@ -1,3 +1,5 @@
+##### 영상 주소 : https://youtu.be/5hw2EQ2azJk
+
 ### 1. 배운 내용
 - Oracle DB와 자바를 연동하여 사용
 - 자바를 활용하여 Select, Update, Insert, Delete sql문 수행
